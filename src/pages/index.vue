@@ -12,6 +12,15 @@
 
         <!-- Botões -->
         <div class="d-flex flex-column align-center">
+            <v-btn
+            color="pink"
+            class="mb-4"
+            size="large"
+            variant="flat"
+            @click="() => $router.push('/cardapio')"
+          >
+            Cardápio 
+          </v-btn>
           <v-btn
             color="red"
             class="mb-4"
