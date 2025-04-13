@@ -4,27 +4,30 @@ Este é o repositório da primeira versão do site **Sabor Soft**, desenvolvido 
 
 ## ✨ Funcionalidades
 
-- **Página Inicial**: Apresentação da Sabor Soft e informações básicas sobre os serviços oferecidos.
+- **Página Inicial**: Apresentação da Sabor Soft.
 - **Cardápio**: Visualização dos itens disponíveis para pedido, com detalhes e preços.
 
 ## 💻 Tecnologias Utilizadas
 
 - **HTML5**: Estruturação do conteúdo.
 - **CSS3**: Estilização e design responsivo.
-- **JavaScript**: Funcionalidades interativas.
+- **Vue**: Funcionalidades interativas.
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/sabor-soft.git
-    ```
+1. Clone o repositório
 2. Navegue até o diretório do projeto:
     ```bash
     cd sabor-soft
     ```
-3. Abra o arquivo `index.html` no navegador para visualizar o site.
-
+3. Digite no terminal:
+    ```bash
+    npm install
+    ```
+3. Digite no terminal para rodar localmente :
+    ```bash
+    npm run dev
+    ```
 ## 📑 Licença
 
 Este projeto está licenciado sob a [MIT License](http://opensource.org/licenses/MIT).
